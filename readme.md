@@ -7,7 +7,7 @@
 
 ชื่อ-สกุล : รัชชานนท์ ไชยวงค์
 
-GitHub Page URL : https://cpe207-students-167.github.io/lab07-aonnml/
+GitHub Page URL : https://cpe207-students-167.github.io/lab07-aonnml/index.html
 
 ---
 
